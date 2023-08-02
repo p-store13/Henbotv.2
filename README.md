@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./src/thumbnail.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Yaemiko - MD</h1>
+<h1 align="center">𝐏𝐞𝐫𝐛𝐚𝐭𝐚𝐬𝐚𝐧 𝐁𝐨𝐭𝐳</h1>
 
 
 ## Baca Sebelum Pakai!!
@@ -29,7 +29,7 @@
 ---------
 
 ##
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285760451683) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283148450932) 
 
 ##
 [![Uptime Status](https://api.netlify.com/api/v1/badges/074dc5c6-dc02-47eb-afdb-f504d226ba3b/deploy-status)](https://app.netlify.com/sites/nao-md/deploys)
@@ -138,15 +138,4 @@ node .
 
 ## Thanks To
 ```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : Xyroinee
-Base : Nurutomo and Elaina
-Supported By Vynaa Chan
-Thanks To : 
-- Adiwajshing (Author Baileys)
-- Nurutomo (Author Wabot-Aq)
-- BochilGaming (Author Games-Wabot)
-- ShirokamiRyzen (Author Nao-MD)
-- ImYanXiao (Autho Elaina-MD)
-- Ekuzika (Author Gura-MD)
-- David (Author Rest Api Itsrose)
-- Dan Semua Yang  Berkontribusi Dalam Pengambangan Script Ini 
+𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐇𝐞𝐧𝐝𝐫𝐚 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
